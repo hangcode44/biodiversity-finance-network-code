@@ -5,7 +5,7 @@ This repository contains the code and HTML outputs for the paper:
 
 The interactive visualizations (HTML files) can be explored locally or embedded in your own applications. These files provide dynamic network views of biodiversity finance actors and terminology across different time periods (epochs).
 
-GitHub repo: [https://github.com/hangcode44/biodiversity-finance-network-code/tree/main](https://github.com/hangcode44/biodiversity-finance-network-code/tree/main)
+Web application: [https://biodiversity-finance-network.vercel.app/](https://biodiversity-finance-network.vercel.app/)
 
 ---
 
