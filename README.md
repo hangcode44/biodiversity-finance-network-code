@@ -3,7 +3,7 @@
 This repository contains the code and HTML outputs for the paper:
 **"Trends in biodiversity finance terminology, actors and networks over two decades"**.
 
-The interactive visualizations (HTML files) can be explored locally or embedded in your own applications. These files provide dynamic network views of biodiversity finance actors and terminology across different time periods (epochs).
+The interactive visualizations (HTML files) can be explored locally or embedded in your own applications. These files provide dynamic network views of biodiversity finance actors across different time periods (epochs).
 
 Web application: [https://biodiversity-finance-network.vercel.app/](https://biodiversity-finance-network.vercel.app/)
 
