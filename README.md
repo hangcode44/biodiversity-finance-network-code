@@ -21,7 +21,6 @@ Web application: [https://biodiversity-finance-network.vercel.app/](https://biod
 
 ## 🚀 Getting Started
 
-To use or embed the interactive HTML files locally or in your own app:
 
 ### Clone the repository
 ```bash
