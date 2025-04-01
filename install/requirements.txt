@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+bertopic
+networkx
+matplotlib
+pyvis
+beautifulsoup4
+selenium
+tqdm
+nltk
+word_forms
+PyPDF2
